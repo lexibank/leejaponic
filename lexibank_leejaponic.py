@@ -1,7 +1,6 @@
 from itertools import groupby
 
 import attr
-from clldutils.dsv import reader
 from clldutils.misc import nfilter, slug
 from clldutils.path import Path
 from pylexibank.dataset import Dataset as BaseDataset
@@ -39,7 +38,7 @@ class Dataset(BaseDataset):
         sourcemap = {
             lname: [r[1] for r in srcs]
             for lname, srcs in groupby(
-                sorted(nfilter(reader(self.dir.joinpath("sources.csv")))), lambda r: r[0]
+                sorted(nfilter(self.raw.read_csv("sources.csv"))), lambda r: r[0]
             )
         }
 
@@ -47,16 +46,13 @@ class Dataset(BaseDataset):
         cognatesh, cognates = self.read_csv("Japonic_recovered.Sheet1.csv", header_index=1)
 
         def concepts(h, step):
-            l = h[2:]
-            return {i + 2: l[i] for i in range(0, len(l), step)}
+            lookup = h[2:]
+            return {x + 2: lookup[x] for x in range(0, len(lookup), step)}
 
         def sorted_(l):
             return sorted(l, key=lambda r: r[:2])
 
         word_index_to_concept = concepts(wordsh, 1)
-
-        # assert all(c in concept_map for c in word_index_to_concept.values())
-        # assert len(words) == len(cognates)
 
         with self.cldf as ds:
             ds.add_sources(*self.raw.read_bib())
@@ -107,9 +103,8 @@ class Dataset(BaseDataset):
                             css = css.strip()
                             if css != "?":
                                 css = int(float(css))
-                                # ds.add_cognate(
+                                #ds.add_cognate(
                                 #    lexeme=row, Cognateset_ID="%s-%s" % (index - 1, css)
-                                # )
-                                pass
+                                #)
 
             # ds.align_cognates()
