@@ -103,8 +103,6 @@ class Dataset(BaseDataset):
                             css = css.strip()
                             if css != "?":
                                 css = int(float(css))
-                                #ds.add_cognate(
-                                #    lexeme=row, Cognateset_ID="%s-%s" % (index - 1, css)
-                                #)
-
-            # ds.align_cognates()
+                                ds.add_cognate(
+                                    lexeme=row, Cognateset_ID="%s-%s" % (index - 1, css)
+                                )
