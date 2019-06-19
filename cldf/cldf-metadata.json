@@ -1,15 +1,14 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "aboutUrl": null,
-    "dc:bibliographicCitation": "",
+    "dc:bibliographicCitation": "Lee, S., & Hasegawa, T. (2011). Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages. Proceedings of the Royal Society B: Biological Sciences, 278(1725), 3662\u20133669. doi:10.1098/rspb.2011.0518.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": null,
-    "dc:identifier": "",
-    "dc:isVersionOf": null,
-    "dc:license": null,
-    "dc:related": null,
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Lee-2011-211"
+    ],
+    "dc:identifier": "http://rspb.royalsocietypublishing.org/content/early/2011/05/04/rspb.2011.0518",
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "leejaponic",
+    "dc:title": "Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages",
     "rdf:ID": "leejaponic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -19,7 +18,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "pyglottolog-1.2.0-3-g0c317cdda7",
                 "concepticon_version": "v2.0"
             }
         }
