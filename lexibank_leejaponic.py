@@ -33,8 +33,6 @@ class Dataset(BaseDataset):
         language_map = {}
         meaning_map = {}
 
-        concept_map = {c.gloss: c.id for c in self.concepticon.conceptsets.values()}
-
         sourcemap = {
             lname: [r[1] for r in srcs]
             for lname, srcs in groupby(
@@ -62,6 +60,14 @@ class Dataset(BaseDataset):
                 ds.add_language(ID=lid, Name=language["NAME"], Glottocode=language["GLOTTOCODE"])
                 language_map[language["NAME"].strip()] = lid
 
+            for concept in self.concepts:
+                ds.add_concept(
+                    ID=slug(concept["ENGLISH"]),
+                    Name=concept["ENGLISH"],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                )
+                meaning_map[slug(concept["ENGLISH"])] = slug(concept["ENGLISH"])
+
             for i, (word, cognate) in enumerate(zip(sorted_(words), sorted_(cognates))):
                 if not word[1]:
                     continue
@@ -77,23 +83,9 @@ class Dataset(BaseDataset):
                     cindex = (index - 1) * 2
                     assert cognatesh[cindex] == concept
 
-                    meaning_n = '{0}'.format(slug(concept))
-
-                    if meaning_n not in meaning_map:
-                        meaning_map[meaning_n] = '{0}_l{1}'.format(slug(concept), i)
-
-                        ds.add_concept(ID=meaning_map[meaning_n], Name=concept,
-                                       Concepticon_ID=concept_map.get(concept.upper()))
-                    else:
-                        ds.add_concept(ID=meaning_map[meaning_n], Name=concept,
-                                       Concepticon_ID=concept_map.get(concept.upper()))
-
-                    if concept.upper() not in concept_map:
-                        self.unmapped.add_concept(ID=meaning_map[meaning_n], Name=concept)
-
                     for row in ds.add_lexemes(
                         Language_ID=slug(lname),
-                        Parameter_ID=meaning_map[meaning_n],
+                        Parameter_ID=meaning_map[slug(concept)],
                         Value=word[index],
                         AlternativeTranscription=cognate[cindex],
                         Source=sourcemap[lname],
@@ -103,6 +95,4 @@ class Dataset(BaseDataset):
                             css = css.strip()
                             if css != "?":
                                 css = int(float(css))
-                                ds.add_cognate(
-                                    lexeme=row, Cognateset_ID="%s-%s" % (index - 1, css)
-                                )
+                                ds.add_cognate(lexeme=row, Cognateset_ID="%s-%s" % (index - 1, css))
