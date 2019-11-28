@@ -8,9 +8,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 Available online at http://rspb.royalsocietypublishing.org/content/early/2011/05/04/rspb.2011.0518
 
-Conceptlists in Concepticon:
-- [Lee-2011-211](http://concepticon.clld.org/contributions/Lee-2011-211)
 
+Conceptlists in Concepticon:
+- [Lee-2011-211](https://concepticon.clld.org/contributions/Lee-2011-211)
 ## Statistics
 
 
@@ -22,6 +22,7 @@ Conceptlists in Concepticon:
 - **Varieties:** 59
 - **Concepts:** 210
 - **Lexemes:** 11,365
+- **Sources:** 5
 - **Synonymy:** 1.00
 - **Cognacy:** 11,368 cognates in 677 cognate sets (236 singletons)
 - **Cognate Diversity:** 0.04

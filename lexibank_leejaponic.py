@@ -1,10 +1,9 @@
-from itertools import groupby
+import pathlib
+import itertools
 
 import attr
 from clldutils.misc import nfilter, slug
-from clldutils.path import Path
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.dataset import Lexeme
+from pylexibank import Lexeme, Dataset as BaseDataset
 
 
 @attr.s
@@ -13,30 +12,30 @@ class LeeJaponicLexeme(Lexeme):
 
 
 class Dataset(BaseDataset):
-    dir = Path(__file__).parent
+    dir = pathlib.Path(__file__).parent
     id = "leejaponic"
 
     lexeme_class = LeeJaponicLexeme
 
-    def cmd_download(self, **kw):
-        self.raw.xls2csv("supplementary.xlsx")
-        self.raw.xls2csv("Japonic_recovered.xlsx")
+    def cmd_download(self, args):
+        self.raw_dir.xls2csv("supplementary.xlsx")
+        self.raw_dir.xls2csv("Japonic_recovered.xlsx")
 
     def read_csv(self, name, header_index=0):
         rows = [
-            [c.strip() for c in row] for i, row in enumerate(self.raw.read_csv(name)[header_index:])
+            [c.strip() for c in row] for i, row in
+            enumerate(self.raw_dir.read_csv(name)[header_index:])
         ]
-
         return rows.pop(0), rows
 
-    def cmd_install(self, **kw):
+    def cmd_makecldf(self, args):
         language_map = {}
         meaning_map = {}
 
         sourcemap = {
             lname: [r[1] for r in srcs]
-            for lname, srcs in groupby(
-                sorted(nfilter(self.raw.read_csv("sources.csv"))), lambda r: r[0]
+            for lname, srcs in itertools.groupby(
+                sorted(nfilter(self.raw_dir.read_csv("sources.csv"))), lambda r: r[0]
             )
         }
 
@@ -52,47 +51,46 @@ class Dataset(BaseDataset):
 
         word_index_to_concept = concepts(wordsh, 1)
 
-        with self.cldf as ds:
-            ds.add_sources(*self.raw.read_bib())
+        args.writer.add_sources(*self.raw_dir.read_bib())
 
-            for language in self.languages:
-                lid = slug(language["NAME"])
-                ds.add_language(ID=lid, Name=language["NAME"], Glottocode=language["GLOTTOCODE"])
-                language_map[language["NAME"].strip()] = lid
+        for language in self.languages:
+            lid = slug(language["NAME"])
+            args.writer.add_language(
+                ID=lid, Name=language["NAME"], Glottocode=language["GLOTTOCODE"])
+            language_map[language["NAME"].strip()] = lid
 
-            for concept in self.concepts:
-                ds.add_concept(
-                    ID=slug(concept["ENGLISH"]),
-                    Name=concept["ENGLISH"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                )
-                meaning_map[slug(concept["ENGLISH"])] = slug(concept["ENGLISH"])
+        for concept in self.concepts:
+            args.writer.add_concept(
+                ID=slug(concept["ENGLISH"]),
+                Name=concept["ENGLISH"],
+                Concepticon_ID=concept["CONCEPTICON_ID"],
+            )
+            meaning_map[slug(concept["ENGLISH"])] = slug(concept["ENGLISH"])
 
-            for i, (word, cognate) in enumerate(zip(sorted_(words), sorted_(cognates))):
-                if not word[1]:
-                    continue
-                if word[1] == "Nigata":
-                    word[1] = "Niigata"
-                assert word[:2] == cognate[:2]
+        for i, (word, cognate) in enumerate(zip(sorted_(words), sorted_(cognates))):
+            if not word[1]:
+                continue
+            if word[1] == "Nigata":
+                word[1] = "Niigata"
+            assert word[:2] == cognate[:2]
 
-                lname = word[1]
+            lname = word[1]
 
-                for index, concept in word_index_to_concept.items():
-                    if word[index] == "?":
-                        continue
-                    cindex = (index - 1) * 2
-                    assert cognatesh[cindex] == concept
+            for index, concept in word_index_to_concept.items():
+                cindex = (index - 1) * 2
+                assert cognatesh[cindex] == concept
 
-                    for row in ds.add_lexemes(
-                        Language_ID=slug(lname),
-                        Parameter_ID=meaning_map[slug(concept)],
-                        Value=word[index],
-                        AlternativeTranscription=cognate[cindex],
-                        Source=sourcemap[lname],
-                    ):
-                        cs = cognate[cindex + 1]
-                        for css in cs.split("&"):
-                            css = css.strip()
-                            if css != "?":
-                                css = int(float(css))
-                                ds.add_cognate(lexeme=row, Cognateset_ID="%s-%s" % (index - 1, css))
+                for row in args.writer.add_lexemes(
+                    Language_ID=slug(lname),
+                    Parameter_ID=meaning_map[slug(concept)],
+                    Value=word[index],
+                    AlternativeTranscription=cognate[cindex],
+                    Source=sourcemap[lname],
+                ):
+                    cs = cognate[cindex + 1]
+                    for css in cs.split("&"):
+                        css = css.strip()
+                        if css != "?":
+                            css = int(float(css))
+                            args.writer.add_cognate(
+                                lexeme=row, Cognateset_ID="%s-%s" % (index - 1, css))
