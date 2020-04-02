@@ -26,3 +26,10 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.00
 - **Cognacy:** 11,368 cognates in 677 cognate sets (236 singletons)
 - **Cognate Diversity:** 0.04
+
+# Contributors
+
+Name | GitHub user | Role
+ --- | --- | --- 
+Christoph Rzymski | @chrzyki | maintainer
+

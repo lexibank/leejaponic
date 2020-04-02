@@ -23,14 +23,17 @@ class Dataset(BaseDataset):
 
     def read_csv(self, name, header_index=0):
         rows = [
-            [c.strip() for c in row] for i, row in
-            enumerate(self.raw_dir.read_csv(name)[header_index:])
+            [c.strip() for c in row]
+            for i, row in enumerate(self.raw_dir.read_csv(name)[header_index:])
         ]
         return rows.pop(0), rows
 
     def cmd_makecldf(self, args):
-        language_map = {}
-        meaning_map = {}
+        language_map = args.writer.add_languages(lookup_factory="Name")
+
+        concept_map = args.writer.add_concepts(
+            id_factory=lambda x: x.id.split("-")[-1] + "_" + slug(x.english), lookup_factory="Name"
+        )
 
         sourcemap = {
             lname: [r[1] for r in srcs]
@@ -51,21 +54,7 @@ class Dataset(BaseDataset):
 
         word_index_to_concept = concepts(wordsh, 1)
 
-        args.writer.add_sources(*self.raw_dir.read_bib())
-
-        for language in self.languages:
-            lid = slug(language["NAME"])
-            args.writer.add_language(
-                ID=lid, Name=language["NAME"], Glottocode=language["GLOTTOCODE"])
-            language_map[language["NAME"].strip()] = lid
-
-        for concept in self.concepts:
-            args.writer.add_concept(
-                ID=slug(concept["ENGLISH"]),
-                Name=concept["ENGLISH"],
-                Concepticon_ID=concept["CONCEPTICON_ID"],
-            )
-            meaning_map[slug(concept["ENGLISH"])] = slug(concept["ENGLISH"])
+        args.writer.add_sources()
 
         for i, (word, cognate) in enumerate(zip(sorted_(words), sorted_(cognates))):
             if not word[1]:
@@ -81,8 +70,8 @@ class Dataset(BaseDataset):
                 assert cognatesh[cindex] == concept
 
                 for row in args.writer.add_lexemes(
-                    Language_ID=slug(lname),
-                    Parameter_ID=meaning_map[slug(concept)],
+                    Language_ID=language_map[lname],
+                    Parameter_ID=concept_map[concept],
                     Value=word[index],
                     AlternativeTranscription=cognate[cindex],
                     Source=sourcemap[lname],
@@ -93,4 +82,5 @@ class Dataset(BaseDataset):
                         if css != "?":
                             css = int(float(css))
                             args.writer.add_cognate(
-                                lexeme=row, Cognateset_ID="%s-%s" % (index - 1, css))
+                                lexeme=row, Cognateset_ID="%s-%s" % (index - 1, css)
+                            )
