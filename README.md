@@ -1,4 +1,4 @@
-# Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages
+# CLDF dataset derived from Lee and Hasegawa's "Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages" from 2011
 
 Cite the source dataset as
 
