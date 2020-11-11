@@ -49,8 +49,8 @@ class Dataset(BaseDataset):
             lookup = h[2:]
             return {x + 2: lookup[x] for x in range(0, len(lookup), step)}
 
-        def sorted_(l):
-            return sorted(l, key=lambda r: r[:2])
+        def sorted_(lang):
+            return sorted(lang, key=lambda r: r[:2])
 
         word_index_to_concept = concepts(wordsh, 1)
 

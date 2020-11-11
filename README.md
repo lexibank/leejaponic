@@ -2,9 +2,9 @@
 
 Cite the source dataset as
 
-> Lee, S., & Hasegawa, T. (2011). Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages. Proceedings of the Royal Society B: Biological Sciences, 278(1725), 3662–3669. doi:10.1098/rspb.2011.0518.
+> Lee, Sean, Hasegawa, Toshikazu (2011). Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages. Proceedings of the Royal Society B: Biological Sciences, 278(1725), 3662–3669. doi:10.1098/rspb.2011.0518.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://rspb.royalsocietypublishing.org/content/early/2011/05/04/rspb.2011.0518
 
@@ -29,7 +29,8 @@ Conceptlists in Concepticon:
 
 # Contributors
 
-Name | GitHub user | Role
- --- | --- | --- 
-Christoph Rzymski | @chrzyki | maintainer
+Name | GitHub user | Description | Role
+ --- | --- | --- | ---
+Christoph Rzymski | @chrzyki | patron | Other
+
 
