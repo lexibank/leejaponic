@@ -215,7 +215,7 @@ OldJapanese-6_new-1,,OldJapanese,6_new,ataraʃi,ataraʃi,a t a r a ʃ i,,Jodaigo
 OldJapanese-7_thick-1,,OldJapanese,7_thick,atuʃi,atuʃi,a t u ʃ i,,Jodaigojiten1967;YasumotoHonda1978,,,^ a t u ʃ i $,default,atusi
 OldJapanese-8_warm-1,,OldJapanese,8_warm,atatakeʃi,atatakeʃi,a t a t a k e ʃ i,,Jodaigojiten1967;YasumotoHonda1978,,,^ a t a t a k e ʃ i $,default,atatakesi
 OldJapanese-9_you-1,,OldJapanese,9_you,na,na,n a,,Jodaigojiten1967;YasumotoHonda1978,,,^ n a $,default,na
-OldJapanese-10_heshe-1,,OldJapanese,10_heshe,?anuQtʃu,?anuQtʃu,<?> a n u ʔ tʃ u,,Jodaigojiten1967;YasumotoHonda1978,,,^ ? a n u Q tʃ u $,default,?anuQtsu
+OldJapanese-10_heshe-1,,OldJapanese,10_heshe,?anuQtʃu,?anuQtʃu,ʔ a n u ʔ tʃ u,,Jodaigojiten1967;YasumotoHonda1978,,,^ ? a n u Q tʃ u $,default,?anuQtsu
 OldJapanese-11_they-1,,OldJapanese,11_they,kare-,kare-,k a r e,,Jodaigojiten1967;YasumotoHonda1978,,,^ k a r e -$,default,karera
 OldJapanese-12_fatgrease-1,,OldJapanese,12_fatgrease,abura,abura,a b u r a,,Jodaigojiten1967;YasumotoHonda1978,,,^ a b u r a $,default,abura
 OldJapanese-13_rain-1,,OldJapanese,13_rain,amë,amë,a m ë/ə,,Jodaigojiten1967;YasumotoHonda1978,,,^ a m ë $,default,ame
@@ -5850,20 +5850,20 @@ Naze-53_tochew-1,,Naze,53_tochew,kamjuɴ,kamjuɴ,k a m j u ɴ,,476171,,,^ k a m 
 Naze-54_tohunt-1,,Naze,54_tohunt,kari,kari,k a r i,,476171,,,^ k a r i $,default,kari
 Naze-55_skin-1,,Naze,55_skin,koː,koː,k oː,,476171,,,^ k oː $,default,koː
 Naze-56_dry-1,,Naze,56_dry,korakjuɴ,korakjuɴ,k o r a k j u ɴ,,476171,,,^ k o r a k j u ɴ $,default,korakjuɴ
-Naze-57_yellow-1,,Naze,57_yellow,k?i?iro,k?i?iro,k <?> i <?> i r o,,476171,,,^ k ? i ? i r o $,default,k?i?iro
+Naze-57_yellow-1,,Naze,57_yellow,k?i?iro,k?i?iro,k ʔ i ʔ i r o,,476171,,,^ k ? i ? i r o $,default,k?i?iro
 Naze-58_tohear-1,,Naze,58_tohear,kikjuɴ,kikjuɴ,k i k j u ɴ,,476171,,,^ k i k j u ɴ $,default,kikjuɴ
 Naze-59_dirty-1,,Naze,59_dirty,janakSïʃaɴ,janakSïʃaɴ,j a n a k S/s ï/ɨ ʃ a ɴ,,476171,,,^ j a n a k S ïʃ a ɴ $,default,janakïʃaɴ
-Naze-61_fog-1,,Naze,61_fog,k?iri,k?iri,k <?> i r i,,476171,,,^ k ? i r i $,default,k?iri
+Naze-61_fog-1,,Naze,61_fog,k?iri,k?iri,k ʔ i r i,,476171,,,^ k ? i r i $,default,k?iri
 Naze-62_tocuthack-1,,Naze,62_tocuthack,kirjuɴ,kirjuɴ,k i r j u ɴ,,476171,,,^ k i r j u ɴ $,default,kirjuɴ
 Naze-64_toeat-1,,Naze,64_toeat,kamjuɴ,kamjuɴ,k a m j u ɴ,,476171,,,^ k a m j u ɴ $,default,kamjuɴ
 Naze-65_grass-1,,Naze,65_grass,kusa,kusa,k u s a,,476171,,,^ k u s a $,default,kusa
 Naze-66_rotten-1,,Naze,66_rotten,kusarërjuɴ,kusarërjuɴ,k u s a r ë/ə r j u ɴ,,476171,,,^ k u s a r ë r j u ɴ $,default,kusareːrjuɴ
 Naze-67_mouth-1,,Naze,67_mouth,kutʃi,kutʃi,k u tʃ i,,476171,,,^ k u tʃ i $,default,kutʃi
-Naze-68_neck-1,,Naze,68_neck,k?ubi,k?ubi,k <?> u b i,,476171,,,^ k ? u b i $,default,k?ubi
-Naze-69_cloud-1,,Naze,69_cloud,k?umu,k?umu,k <?> u m u,,476171,,,^ k ? u m u $,default,k?umu
+Naze-68_neck-1,,Naze,68_neck,k?ubi,k?ubi,k ʔ u b i,,476171,,,^ k ? u b i $,default,k?ubi
+Naze-69_cloud-1,,Naze,69_cloud,k?umu,k?umu,k ʔ u m u,,476171,,,^ k ? u m u $,default,k?umu
 Naze-70_spider-1,,Naze,70_spider,maɴ,maɴ,m a ɴ,,476171,,,^ m a ɴ $,default,maɴ
 Naze-71_tocome-1,,Naze,71_tocome,kjuɴ,kjuɴ,k j u ɴ,,476171,,,^ k j u ɴ $,default,kjuɴ
-Naze-72_black-1,,Naze,72_black,k?uruʃaɴ,k?uruʃaɴ,k <?> u r u ʃ a ɴ,,476171,,,^ k ? u r u ʃ a ɴ $,default,k?uruʃaɴ
+Naze-72_black-1,,Naze,72_black,k?uruʃaɴ,k?uruʃaɴ,k ʔ u r u ʃ a ɴ,,476171,,,^ k ? u r u ʃ a ɴ $,default,k?uruʃaɴ
 Naze-73_hair-1,,Naze,73_hair,kSï,kSï,k S/s ï/ɨ,,476171,,,^ k S ï $,default,kï
 Naze-74_smoke-1,,Naze,74_smoke,kSïbuʃi,kSïbuʃi,k S/s ï/ɨ b u ʃ i,,476171,,,^ k S ï b u ʃ i $,default,kïbuʃi
 Naze-75_nine-1,,Naze,75_nine,kunutsï,kunutsï,k u n u ts ï/ɨ,,476171,,,^ k u n u ts ï $,default,kunutsï
@@ -5884,12 +5884,12 @@ Naze-92_tosuck-1,,Naze,92_tosuck,sïːjuɴ,sïːjuɴ,s ïː/ɨː j u ɴ,,476171,
 Naze-93_sand-1,,Naze,93_sand,sïna,sïna,s ï/ɨ n a,,476171,,,^ s ï n a $,default,ʃïna
 Naze-94_tosit-1,,Naze,94_tosit,irjuɴ,irjuɴ,i r j u ɴ,,476171,,,^ i r j u ɴ $,default,irjuɴ
 Naze-95_back-1,,Naze,95_back,kusï,kusï,k u s ï/ɨ,,476171,,,^ k u s ï $,default,kusï
-Naze-96_narrow-1,,Naze,96_narrow,?ibaʃaɴ,?ibaʃaɴ,<?> i b a ʃ a ɴ,,476171,,,^ ? i b a ʃ a ɴ $,default,?ibaʃaɴ
+Naze-96_narrow-1,,Naze,96_narrow,?ibaʃaɴ,?ibaʃaɴ,ʔ i b a ʃ a ɴ,,476171,,,^ ? i b a ʃ a ɴ $,default,?ibaʃaɴ
 Naze-98_togrow-1,,Naze,98_togrow,hodeʃuɴ,hodeʃuɴ,h o d e ʃ u ɴ,,476171,,,^ h o d e ʃ u ɴ $,default,hodeʃuɴ
 Naze-99_sky-1,,Naze,99_sky,tïɴ,tïɴ,t ï/ɨ ɴ,,476171,,,^ t ï ɴ $,default,tïɴ
-Naze-100_topoundbeat-1,,Naze,100_topoundbeat,?utʃuɴ,?utʃuɴ,<?> u tʃ u ɴ,,476171,,,^ ? u tʃ u ɴ $,default,?utʃuɴ
+Naze-100_topoundbeat-1,,Naze,100_topoundbeat,?utʃuɴ,?utʃuɴ,ʔ u tʃ u ɴ,,476171,,,^ ? u tʃ u ɴ $,default,?utʃuɴ
 Naze-101_tostand-1,,Naze,101_tostand,tatʃuɴ,tatʃuɴ,t a tʃ u ɴ,,476171,,,^ t a tʃ u ɴ $,default,tatʃuɴ
-Naze-102_egg-1,,Naze,102_egg,k?uga,k?uga,k <?> u g a,,476171,,,^ k ? u g a $,default,k?uga
+Naze-102_egg-1,,Naze,102_egg,k?uga,k?uga,k ʔ u g a,,476171,,,^ k ? u g a $,default,k?uga
 Naze-103_blood-1,,Naze,103_blood,tsï,tsï,ts ï/ɨ,,476171,,,^ ts ï $,default,tsï
 Naze-104_small-1,,Naze,104_small,tsïbimuɴ,tsïbimuɴ,ts ï/ɨ b i m u ɴ,,476171,,,^ ts ï b i m u ɴ $,default,tsïbimuɴ
 Naze-105_near-1,,Naze,105_near,tsïkjaʃaɴ,tsïkjaʃaɴ,ts ï/ɨ k j a ʃ a ɴ,,476171,,,^ ts ï k j a ʃ a ɴ $,default,tsïkjaʃaɴ
@@ -5905,7 +5905,7 @@ Naze-115_far-1,,Naze,115_far,tuːʃaɴ,tuːʃaɴ,t uː ʃ a ɴ,,476171,,,^ t uː
 Naze-116_where-1,,Naze,116_where,daː,daː,d aː,,476171,,,^ d aː $,default,daː
 Naze-117_year-1,,Naze,117_year,tuʃi,tuʃi,t u ʃ i,,476171,,,^ t u ʃ i $,default,tuʃi
 Naze-118_what-1,,Naze,118_what,dïɴ,dïɴ,d ï/ɨ ɴ,,476171,,,^ d ï ɴ $,default,dïɴ
-Naze-119_who-1,,Naze,119_who,duɴts?u,duɴts?u,d u ɴ ts <?> u,,476171,,,^ d u ɴ ts ? u $,default,duɴts?u
+Naze-119_who-1,,Naze,119_who,duɴts?u,duɴts?u,d u ɴ ts ʔ u,,476171,,,^ d u ɴ ts ? u $,default,duɴts?u
 Naze-120_tofly-1,,Naze,120_tofly,udeïQkjuɴ,udeïQkjuɴ,u d e ï/ɨ ʔ k j u ɴ,,476171,,,^ u d e ï Q k j u ɴ $,default,udeïQkjuɴ
 Naze-121_bird-1,,Naze,121_bird,turi,turi,t u r i,,476171,,,^ t u r i $,default,turi
 Naze-122_nonot-1,,Naze,122_nonot,nëɴ,nëɴ,n ë/ə ɴ,,476171,,,^ n ë ɴ $,default,nëɴ
@@ -5940,22 +5940,22 @@ Naze-153_flower-1,,Naze,153_flower,hana,hana,h a n a,,476171,,,^ h a n a $,defau
 Naze-154_nose-1,,Naze,154_nose,hana,hana,h a n a,,476171,,,^ h a n a $,default,hana
 Naze-155_feather-1,,Naze,155_feather,hanë,hanë,h a n ë/ə,,476171,,,^ h a n ë $,default,hanë
 Naze-156_wing-1,,Naze,156_wing,hanë,hanë,h a n ë/ə,,476171,,,^ h a n ë $,default,hanë
-Naze-157_mother-1,,Naze,157_mother,?aɴma,?aɴma,<?> a ɴ m a,,476171,,,^ ? a ɴ m a $,default,?aɴma
+Naze-157_mother-1,,Naze,157_mother,?aɴma,?aɴma,ʔ a ɴ m a,,476171,,,^ ? a ɴ m a $,default,?aɴma
 Naze-158_woodsforest-1,,Naze,158_woodsforest,jama,jama,j a m a,,476171,,,^ j a m a $,default,jama
 Naze-159_belly-1,,Naze,159_belly,wata,wata,w a t a,,476171,,,^ w a t a $,default,wata
 Naze-160_intestines-1,,Naze,160_intestines,nakami,nakami,n a k a m i,,476171,,,^ n a k a m i $,default,nakami
 Naze-161_needle-1,,Naze,161_needle,hari,hari,h a r i,,476171,,,^ h a r i $,default,hari
-Naze-162_fire-1,,Naze,162_fire,m?atsï,m?atsï,m <?> a ts ï/ɨ,,476171,,,^ m ? a ts ï $,default,m?atsï
+Naze-162_fire-1,,Naze,162_fire,m?atsï,m?atsï,m ʔ a ts ï/ɨ,,476171,,,^ m ? a ts ï $,default,m?atsï
 Naze-163_left-1,,Naze,163_left,çidʒari,çidʒari,ç i dʒ a r i,,476171,,,^ ç i dʒ a r i $,default,çidʒari
-Naze-164_personhumanbeing-1,,Naze,164_personhumanbeing,tʃ?u,tʃ?u,tʃ <?> u,,476171,,,^ tʃ ? u $,default,tʃ?u
-Naze-165_one-1,,Naze,165_one,t?ïːtsï,t?ïːtsï,t <?> ïː/ɨː ts ï/ɨ,,476171,,,^ t ? ïː ts ï $,default,t?ïːtsï
+Naze-164_personhumanbeing-1,,Naze,164_personhumanbeing,tʃ?u,tʃ?u,tʃ ʔ u,,476171,,,^ tʃ ? u $,default,tʃ?u
+Naze-165_one-1,,Naze,165_one,t?ïːtsï,t?ïːtsï,t ʔ ïː/ɨː ts ï/ɨ,,476171,,,^ t ? ïː ts ï $,default,t?ïːtsï
 Naze-167_toopenuncover-1,,Naze,167_toopenuncover,hakjuɴ,hakjuɴ,h a k j u ɴ,,476171,,,^ h a k j u ɴ $,default,hakjuɴ
 Naze-168_day-1,,Naze,168_day,çiɴma,çiɴma,ç i ɴ m a,,476171,,,^ ç i ɴ m a $,default,çiɴma
 Naze-169_wide-1,,Naze,169_wide,çiruʃaɴ,çiruʃaɴ,ç i r u ʃ a ɴ,,476171,,,^ ç i r u ʃ a ɴ $,default,çiruʃaɴ
 Naze-170_toblow-1,,Naze,170_toblow,Fukjuɴ,Fukjuɴ,β u k j u ɴ,,476171,,,^ F u k j u ɴ $,default,Fukjuɴ
 Naze-171_thatchroof-1,,Naze,171_thatchroof,jaFukjuri,jaFukjuri,j a β u k j u r i,,476171,,,^ j a F u k j u r i $,default,jaFukjuri
 Naze-172_toswell-1,,Naze,172_toswell,harërjuɴ,harërjuɴ,h a r ë/ə r j u ɴ,,476171,,,^ h a r ë r j u ɴ $,default,harërjuɴ
-Naze-173_two-1,,Naze,173_two,t?aːtsï,t?aːtsï,t <?> aː ts ï/ɨ,,476171,,,^ t ? aː ts ï $,default,t?aːtsï
+Naze-173_two-1,,Naze,173_two,t?aːtsï,t?aːtsï,t ʔ aː ts ï/ɨ,,476171,,,^ t ? aː ts ï $,default,t?aːtsï
 Naze-174_old-1,,Naze,174_old,Furuʃaɴ,Furuʃaɴ,β u r u ʃ a ɴ,,476171,,,^ F u r u ʃ a ɴ $,default,Furuʃaɴ
 Naze-175_snake-1,,Naze,175_snake,habu,habu,h a b u,,476171,,,^ h a b u $,default,habu
 Naze-176_stickwood-1,,Naze,176_stickwood,boː,boː,b oː,,476171,,,^ b oː $,default,boː
@@ -5968,7 +5968,7 @@ Naze-182_correcttrue-1,,Naze,182_correcttrue,Fuɴnumuɴ,Fuɴnumuɴ,β u ɴ n u m
 Naze-183_toturn-1,,Naze,183_toturn,magarjuɴ,magarjuɴ,m a g a r j u ɴ,,476171,,,^ m a g a r j u ɴ $,default,magarjuɴ
 Naze-184_fruit-1,,Naze,184_fruit,kSïɴnari,kSïɴnari,k S/s ï/ɨ ɴ n a r i,,476171,,,^ k S ï ɴ n a r i $,default,kïɴnari
 Naze-185_right-1,,Naze,185_right,nigiri,nigiri,n i g i r i,,476171,,,^ n i g i r i $,default,nigiri
-Naze-186_short-1,,Naze,186_short,?iQkjaʃaɴ,?iQkjaʃaɴ,<?> i ʔ k j a ʃ a ɴ,,476171,,,^ ? i Q k j a ʃ a ɴ $,default,?iQkjaʃaɴ
+Naze-186_short-1,,Naze,186_short,?iQkjaʃaɴ,?iQkjaʃaɴ,ʔ i ʔ k j a ʃ a ɴ,,476171,,,^ ? i Q k j a ʃ a ɴ $,default,?iQkjaʃaɴ
 Naze-187_water-1,,Naze,187_water,mïdzï,mïdzï,m ï/ɨ d z ï/ɨ,,476171,,,^ m ï d z ï $,default,mïdzï
 Naze-189_roadpath-1,,Naze,189_roadpath,mïtsï,mïtsï,m ï/ɨ ts ï/ɨ,,476171,,,^ m ï ts ï $,default,mïtsï
 Naze-190_three-1,,Naze,190_three,miːtsï,miːtsï,m iː ts ï/ɨ,,476171,,,^ m iː ts ï $,default,miːtsï
@@ -5983,7 +5983,7 @@ Naze-198_eye-1,,Naze,198_eye,mï,mï,m ï/ɨ,,476171,,,^ m ï $,default,mï
 Naze-200_tohold-1,,Naze,200_tohold,mutʃuɴ,mutʃuɴ,m u tʃ u ɴ,,476171,,,^ m u tʃ u ɴ $,default,mutʃuɴ
 Naze-201_toburn-1,,Naze,201_toburn,jakjuɴ,jakjuɴ,j a k j u ɴ,,476171,,,^ j a k j u ɴ $,default,jakjuɴ
 Naze-202_eight-1,,Naze,202_eight,jaːtsï,jaːtsï,j aː ts ï/ɨ,,476171,,,^ j aː ts ï $,default,jaːtsï
-Naze-203_todream-1,,Naze,203_todream,?imïnirjuɴ,?imïnirjuɴ,<?> i m ï/ɨ n i r j u ɴ,,476171,,,^ ? i m ï n i r j u ɴ $,default,?imïnirjuɴ
+Naze-203_todream-1,,Naze,203_todream,?imïnirjuɴ,?imïnirjuɴ,ʔ i m ï/ɨ n i r j u ɴ,,476171,,,^ ? i m ï n i r j u ɴ $,default,?imïnirjuɴ
 Naze-204_good-1,,Naze,204_good,iQtʃaɴ,iQtʃaɴ,i ʔ tʃ a ɴ,,476171,,,^ i Q tʃ a ɴ $,default,iQtʃaɴ
 Naze-205_four-1,,Naze,205_four,juːtsï,juːtsï,j uː ts ï/ɨ,,476171,,,^ j uː ts ï $,default,juːtsï
 Naze-206_night-1,,Naze,206_night,juru,juru,j u r u,,476171,,,^ j u r u $,default,juru
@@ -6075,7 +6075,7 @@ Okinawa-92_tosuck-1,,Okinawa,92_tosuck,supujuɴ,supujuɴ,s u p u j u ɴ,,476171,
 Okinawa-93_sand-1,,Okinawa,93_sand,ʃina,ʃina,ʃ i n a,,476171,,,^ ʃ i n a $,default,ʃina
 Okinawa-94_tosit-1,,Okinawa,94_tosit,iɴ,iɴ,i ɴ,,476171,,,^ i ɴ $,default,iɴ
 Okinawa-95_back-1,,Okinawa,95_back,nagaːni,nagaːni,n a g aː n i,,476171,,,^ n a g aː n i $,default,nagaːni
-Okinawa-96_narrow-1,,Okinawa,96_narrow,?ibaʃeɴ,?ibaʃeɴ,<?> i b a ʃ e ɴ,,476171,,,^ ? i b a ʃ e ɴ $,default,?ibaʃeɴ
+Okinawa-96_narrow-1,,Okinawa,96_narrow,?ibaʃeɴ,?ibaʃeɴ,ʔ i b a ʃ e ɴ,,476171,,,^ ? i b a ʃ e ɴ $,default,?ibaʃeɴ
 Okinawa-98_togrow-1,,Okinawa,98_togrow,suratiːɴ,suratiːɴ,s u r a t iː ɴ,,476171,,,^ s u r a t iː ɴ $,default,suratiːɴ
 Okinawa-99_sky-1,,Okinawa,99_sky,tiɴ,tiɴ,t i ɴ,,476171,,,^ t i ɴ $,default,tiɴ
 Okinawa-100_topoundbeat-1,,Okinawa,100_topoundbeat,tatakuɴ,tatakuɴ,t a t a k u ɴ,,476171,,,^ t a t a k u ɴ $,default,tatakuɴ
@@ -6115,7 +6115,7 @@ Okinawa-137_tosew-1,,Okinawa,137_tosew,noːjuɴ,noːjuɴ,n oː j u ɴ,,476171,,,
 Okinawa-138_tosteal-1,,Okinawa,138_tosteal,nusumuɴ,nusumuɴ,n u s u m u ɴ,,476171,,,^ n u s u m u ɴ $,default,nusumuɴ
 Okinawa-139_wet-1,,Okinawa,139_wet,ɴriːɴ,ɴriːɴ,ɴ r iː ɴ,,476171,,,^ ɴ r iː ɴ $,default,ɴriːɴ
 Okinawa-140_root-1,,Okinawa,140_root,niː,niː,n iː,,476171,,,^ n iː $,default,niː
-Okinawa-141_rat-1,,Okinawa,141_rat,?eɴtʃu,?eɴtʃu,<?> e ɴ tʃ u,,476171,,,^ ? e ɴ tʃ u $,default,?eɴtʃu
+Okinawa-141_rat-1,,Okinawa,141_rat,?eɴtʃu,?eɴtʃu,ʔ e ɴ tʃ u,,476171,,,^ ? e ɴ tʃ u $,default,?eɴtʃu
 Okinawa-142_tosleep-1,,Okinawa,142_tosleep,niɴbuɴ,niɴbuɴ,n i ɴ b u ɴ,,476171,,,^ n i ɴ b u ɴ $,default,niɴbuɴ
 Okinawa-143_toliedown-1,,Okinawa,143_toliedown,niɴbuɴ,niɴbuɴ,n i ɴ b u ɴ,,476171,,,^ n i ɴ b u ɴ $,default,niɴbuɴ
 Okinawa-144_toclimb-1,,Okinawa,144_toclimb,nubuiɴ,nubuiɴ,n u b u i ɴ,,476171,,,^ n u b u i ɴ $,default,nubuiɴ
@@ -6130,7 +6130,7 @@ Okinawa-153_flower-1,,Okinawa,153_flower,Fanaː,Fanaː,β a n aː,,476171,,,^ F 
 Okinawa-154_nose-1,,Okinawa,154_nose,Fana,Fana,β a n a,,476171,,,^ F a n a $,default,fana
 Okinawa-155_feather-1,,Okinawa,155_feather,Fanigeː,Fanigeː,β a n i g eː,,476171,,,^ F a n i g eː $,default,fanigeː
 Okinawa-156_wing-1,,Okinawa,156_wing,Fani,Fani,β a n i,,476171,,,^ F a n i $,default,fani
-Okinawa-157_mother-1,,Okinawa,157_mother,?aɴmaː,?aɴmaː,<?> a ɴ m aː,,476171,,,^ ? a ɴ m aː $,default,?aɴmaː
+Okinawa-157_mother-1,,Okinawa,157_mother,?aɴmaː,?aɴmaː,ʔ a ɴ m aː,,476171,,,^ ? a ɴ m aː $,default,?aɴmaː
 Okinawa-158_woodsforest-1,,Okinawa,158_woodsforest,jamaː,jamaː,j a m aː,,476171,,,^ j a m aː $,default,jamaː
 Okinawa-159_belly-1,,Okinawa,159_belly,wataː,wataː,w a t aː,,476171,,,^ w a t aː $,default,wataː
 Okinawa-160_intestines-1,,Okinawa,160_intestines,watamuɴ,watamuɴ,w a t a m u ɴ,,476171,,,^ w a t a m u ɴ $,default,watamuɴ
@@ -6139,7 +6139,7 @@ Okinawa-162_fire-1,,Okinawa,162_fire,piː,piː,p iː,,476171,,,^ p iː $,default
 Okinawa-163_left-1,,Okinawa,163_left,piːgeː,piːgeː,p iː g eː,,476171,,,^ p iː g eː $,default,piːgeː
 Okinawa-164_personhumanbeing-1,,Okinawa,164_personhumanbeing,tʃuː,tʃuː,tʃ uː,,476171,,,^ tʃ uː $,default,tʃuː
 Okinawa-165_one-1,,Okinawa,165_one,tiːtʃi,tiːtʃi,t iː tʃ i,,476171,,,^ t iː tʃ i $,default,tiːtʃi
-Okinawa-167_toopenuncover-1,,Okinawa,167_toopenuncover,?akjuɴ,?akjuɴ,<?> a k j u ɴ,,476171,,,^ ? a k j u ɴ $,default,?akjuɴ
+Okinawa-167_toopenuncover-1,,Okinawa,167_toopenuncover,?akjuɴ,?akjuɴ,ʔ a k j u ɴ,,476171,,,^ ? a k j u ɴ $,default,?akjuɴ
 Okinawa-168_day-1,,Okinawa,168_day,piru,piru,p i r u,,476171,,,^ p i r u $,default,piru
 Okinawa-169_wide-1,,Okinawa,169_wide,çiruʃeɴ,çiruʃeɴ,ç i r u ʃ e ɴ,,476171,,,^ ç i r u ʃ e ɴ $,default,çiruʃeɴ
 Okinawa-170_toblow-1,,Okinawa,170_toblow,Fukuɴ,Fukuɴ,β u k u ɴ,,476171,,,^ F u k u ɴ $,default,Fukuɴ
@@ -6158,7 +6158,7 @@ Okinawa-182_correcttrue-1,,Okinawa,182_correcttrue,Funtoː,Funtoː,β u n t oː,
 Okinawa-183_toturn-1,,Okinawa,183_toturn,magaiɴ,magaiɴ,m a g a i ɴ,,476171,,,^ m a g a i ɴ $,default,magaiɴ
 Okinawa-184_fruit-1,,Okinawa,184_fruit,nai,nai,n a i,,476171,,,^ n a i $,default,nai
 Okinawa-185_right-1,,Okinawa,185_right,ɴgiːri,ɴgiːri,ɴ g iː r i,,476171,,,^ ɴ g iː r i $,default,ɴgiːri
-Okinawa-186_short-1,,Okinawa,186_short,?iɴkjaʃeɴ,?iɴkjaʃeɴ,<?> i ɴ k j a ʃ e ɴ,,476171,,,^ ? i ɴ k j a ʃ e ɴ $,default,?iɴkjaʃeɴ
+Okinawa-186_short-1,,Okinawa,186_short,?iɴkjaʃeɴ,?iɴkjaʃeɴ,ʔ i ɴ k j a ʃ e ɴ,,476171,,,^ ? i ɴ k j a ʃ e ɴ $,default,?iɴkjaʃeɴ
 Okinawa-187_water-1,,Okinawa,187_water,midʒi,midʒi,m i dʒ i,,476171,,,^ m i dʒ i $,default,midzi
 Okinawa-189_roadpath-1,,Okinawa,189_roadpath,mitʃi,mitʃi,m i tʃ i,,476171,,,^ m i tʃ i $,default,mitʃi
 Okinawa-190_three-1,,Okinawa,190_three,miːtʃi,miːtʃi,m iː tʃ i,,476171,,,^ m iː tʃ i $,default,miːtʃi
@@ -6173,7 +6173,7 @@ Okinawa-198_eye-1,,Okinawa,198_eye,miː,miː,m iː,,476171,,,^ m iː $,default,m
 Okinawa-200_tohold-1,,Okinawa,200_tohold,muQtuɴ,muQtuɴ,m u ʔ t u ɴ,,476171,,,^ m u Q t u ɴ $,default,muQtuɴ
 Okinawa-201_toburn-1,,Okinawa,201_toburn,jakuɴ,jakuɴ,j a k u ɴ,,476171,,,^ j a k u ɴ $,default,jakuɴ
 Okinawa-202_eight-1,,Okinawa,202_eight,jaːtʃi,jaːtʃi,j aː tʃ i,,476171,,,^ j aː tʃ i $,default,jaːtsi
-Okinawa-203_todream-1,,Okinawa,203_todream,?imiːmiɴ,?imiːmiɴ,<?> i m iː m i ɴ,,476171,,,^ ? i m iː m i ɴ $,default,?imiːmiɴ
+Okinawa-203_todream-1,,Okinawa,203_todream,?imiːmiɴ,?imiːmiɴ,ʔ i m iː m i ɴ,,476171,,,^ ? i m iː m i ɴ $,default,?imiːmiɴ
 Okinawa-204_good-1,,Okinawa,204_good,dʒoːtoː,dʒoːtoː,dʒ oː t oː,,476171,,,^ dʒ oː t oː $,default,dʒoːtoː
 Okinawa-205_four-1,,Okinawa,205_four,juːtʃi,juːtʃi,j uː tʃ i,,476171,,,^ j uː tʃ i $,default,juːtʃi
 Okinawa-206_night-1,,Okinawa,206_night,juruː,juruː,j u r uː,,476171,,,^ j u r uː $,default,juruː
@@ -6272,9 +6272,9 @@ Hateruma-100_topoundbeat-1,,Hateruma,100_topoundbeat,kurasuɴ,kurasuɴ,k u r a s
 Hateruma-101_tostand-1,,Hateruma,101_tostand,tatsïɴ,tatsïɴ,t a ts ï/ɨ ɴ,,122469,,,^ t a ts ï ɴ $,default,tatsïɴ
 Hateruma-102_egg-1,,Hateruma,102_egg,këː,këː,k ëː/eː,,122469,,,^ k ëː $,default,këː
 Hateruma-103_blood-1,,Hateruma,103_blood,dzïː,dzïː,d z ïː/ɨː,,122469,,,^ d z ïː $,default,dzïː
-Hateruma-104_small-1,,Hateruma,104_small,?iʃsagahan,?iʃsagahan,<?> i ʃ s a g a h a n,,122469,,,^ ? i ʃs a g a h a n $,default,?iʃsagahan
+Hateruma-104_small-1,,Hateruma,104_small,?iʃsagahan,?iʃsagahan,ʔ i ʃ s a g a h a n,,122469,,,^ ? i ʃs a g a h a n $,default,?iʃsagahan
 Hateruma-105_near-1,,Hateruma,105_near,sïkahaɴ,sïkahaɴ,s ï/ɨ k a h a ɴ,,122469,,,^ s ï k a h a ɴ $,default,sïkahaɴ
-Hateruma-106_father-1,,Hateruma,106_father,?ija,?ija,<?> i j a,,122469,,,^ ? i j a $,default,?ija
+Hateruma-106_father-1,,Hateruma,106_father,?ija,?ija,ʔ i j a,,122469,,,^ ? i j a $,default,?ija
 Hateruma-107_moon-1,,Hateruma,107_moon,sïkëɴ,sïkëɴ,s ï/ɨ k ë/ə ɴ,,122469,,,^ s ï k ë ɴ $,default,sïkëɴ
 Hateruma-108_earthsoil-1,,Hateruma,108_earthsoil,ɴta,ɴta,ɴ t a,,122469,,,^ ɴ t a $,default,ɴta
 Hateruma-109_wife-1,,Hateruma,109_wife,tuɴ,tuɴ,t u ɴ,,122469,,,^ t u ɴ $,default,tuɴ
@@ -6303,7 +6303,7 @@ Hateruma-137_tosew-1,,Hateruma,137_tosew,nuːɴ,nuːɴ,n uː ɴ,,122469,,,^ n u�
 Hateruma-138_tosteal-1,,Hateruma,138_tosteal,nusïmuɴ,nusïmuɴ,n u s ï/ɨ m u ɴ,,122469,,,^ n u s ï m u ɴ $,default,nusïmuɴ
 Hateruma-139_wet-1,,Hateruma,139_wet,doQfariruɴ,doQfariruɴ,d o ʔ f a r i r u ɴ,,122469,,,^ d o Q f a r i r u ɴ $,default,doQfariruɴ
 Hateruma-140_root-1,,Hateruma,140_root,niɴ,niɴ,n i ɴ,,122469,,,^ n i ɴ $,default,niɴ
-Hateruma-141_rat-1,,Hateruma,141_rat,?ujaɴtʃu,?ujaɴtʃu,<?> u j a ɴ tʃ u,,122469,,,^ ? u j a ɴ tʃ u $,default,?ujaɴtʃu
+Hateruma-141_rat-1,,Hateruma,141_rat,?ujaɴtʃu,?ujaɴtʃu,ʔ u j a ɴ tʃ u,,122469,,,^ ? u j a ɴ tʃ u $,default,?ujaɴtʃu
 Hateruma-142_tosleep-1,,Hateruma,142_tosleep,nuQFuɴ,nuQFuɴ,n u ʔ β u ɴ,,122469,,,^ n u Q F u ɴ $,default,nuQFuɴ
 Hateruma-143_toliedown-1,,Hateruma,143_toliedown,nuQFuɴ,nuQFuɴ,n u ʔ β u ɴ,,122469,,,^ n u Q F u ɴ $,default,nuQFuɴ
 Hateruma-144_toclimb-1,,Hateruma,144_toclimb,nuburuɴ,nuburuɴ,n u b u r u ɴ,,122469,,,^ n u b u r u ɴ $,default,nuburuɴ
@@ -6627,7 +6627,7 @@ Ikema-71_tocome-1,,Ikema,71_tocome,Fuː,Fuː,β uː,,476171,,,^ F uː $,default,
 Ikema-72_black-1,,Ikema,72_black,Qfukai,Qfukai,ʔ f u k a i,,476171,,,^ Q f u k a i $,default,Qfukai
 Ikema-73_hair-1,,Ikema,73_hair,kiː,kiː,k iː,,476171,,,^ k iː $,default,kiː
 Ikema-74_smoke-1,,Ikema,74_smoke,kjuːsï,kjuːsï,k j uː s ï/ɨ,,476171,,,^ k j uː s ï $,default,kjuːsï
-Ikema-75_nine-1,,Ikema,75_nine,k?unutsï,k?unutsï,k <?> u n u ts ï/ɨ,,476171,,,^ k ? u n u ts ï $,default,k?unutsï
+Ikema-75_nine-1,,Ikema,75_nine,k?unutsï,k?unutsï,k ʔ u n u ts ï/ɨ,,476171,,,^ k ? u n u ts ï $,default,k?unutsï
 Ikema-77_child-1,,Ikema,77_child,Qfa,Qfa,ʔ f a,,476171,,,^ Q f a $,default,Qfa
 Ikema-78_this-1,,Ikema,78_this,kui,kui,k u i,,476171,,,^ k u i $,default,kui
 Ikema-79_tokill-1,,Ikema,79_tokill,kurasï,kurasï,k u r a s ï/ɨ,,476171,,,^ k u r a s ï $,default,kurusï
@@ -6637,7 +6637,7 @@ Ikema-82_tostabpierce-1,,Ikema,82_tostabpierce,sasï,sasï,s a s ï/ɨ,,476171,,
 Ikema-83_cold-1,,Ikema,83_cold,Qʃikai,Qʃikai,ʔ ʃ i k a i,,476171,,,^ Qʃ i k a i $,default,Qʃikai
 Ikema-84_salt-1,,Ikema,84_salt,maːsu,maːsu,m aː s u,,476171,,,^ m aː s u $,default,maːsu
 Ikema-85_below-1,,Ikema,85_below,sïta,sïta,s ï/ɨ t a,,476171,,,^ s ï t a $,default,sïta
-Ikema-86_tongue-1,,Ikema,86_tongue,t?a,t?a,t <?> a,,476171,,,^ t ? a $,default,t?a
+Ikema-86_tongue-1,,Ikema,86_tongue,t?a,t?a,t ʔ a,,476171,,,^ t ? a $,default,t?a
 Ikema-87_todiebedead-1,,Ikema,87_todiebedead,sïɴ,sïɴ,s ï/ɨ ɴ,,476171,,,^ s ï ɴ $,default,sïɴ
 Ikema-89_louse-1,,Ikema,89_louse,Qsam,Qsam,ʔ s a m,,476171,,,^ Qs a m $,default,Qsam
 Ikema-90_toknowbeknowledgeable-1,,Ikema,90_toknowbeknowledgeable,sïː,sïː,s ïː/ɨː,,476171,,,^ s ïː $,default,sïː
@@ -6649,7 +6649,7 @@ Ikema-95_back-1,,Ikema,95_back,kuːɴmi,kuːɴmi,k uː ɴ m i,,476171,,,^ k uː 
 Ikema-96_narrow-1,,Ikema,96_narrow,imakai,imakai,i m a k a i,,476171,,,^ i m a k a i $,default,imakai
 Ikema-98_togrow-1,,Ikema,98_togrow,FuiFunasï,FuiFunasï,β u i β u n a s ï/ɨ,,476171,,,^ F u i F u n a s ï $,default,FuiFunasï
 Ikema-99_sky-1,,Ikema,99_sky,tiɴ,tiɴ,t i ɴ,,476171,,,^ t i ɴ $,default,tiɴ
-Ikema-100_topoundbeat-1,,Ikema,100_topoundbeat,t?aFu,t?aFu,t <?> a β u,,476171,,,^ t ? a F u $,default,t?aFu
+Ikema-100_topoundbeat-1,,Ikema,100_topoundbeat,t?aFu,t?aFu,t ʔ a β u,,476171,,,^ t ? a F u $,default,t?aFu
 Ikema-101_tostand-1,,Ikema,101_tostand,tatsï,tatsï,t a ts ï/ɨ,,476171,,,^ t a ts ï $,default,tatsï
 Ikema-102_egg-1,,Ikema,102_egg,tunuka,tunuka,t u n u k a,,476171,,,^ t u n u k a $,default,tunuka
 Ikema-103_blood-1,,Ikema,103_blood,akatsï,akatsï,a k a ts ï/ɨ,,476171,,,^ a k a ts ï $,default,akatsï
@@ -6689,7 +6689,7 @@ Ikema-140_root-1,,Ikema,140_root,niː,niː,n iː,,476171,,,^ n iː $,default,ni�
 Ikema-141_rat-1,,Ikema,141_rat,jumunu,jumunu,j u m u n u,,476171,,,^ j u m u n u $,default,jumunu
 Ikema-142_tosleep-1,,Ikema,142_tosleep,ɲuː,ɲuː,ɲ uː,,476171,,,^ ɲ uː $,default,ɲuː
 Ikema-143_toliedown-1,,Ikema,143_toliedown,ɲuː,ɲuː,ɲ uː,,476171,,,^ ɲ uː $,default,ɲuː
-Ikema-144_toclimb-1,,Ikema,144_toclimb,nuuːriː,nuuːriː,n uː <<ː>> r iː,,476171,,,^ n uu <ː> r iː $,default,nuuːriː
+Ikema-144_toclimb-1,,Ikema,144_toclimb,nuuːriː,nuuːriː,n uuː/uː r iː,,476171,,,^ n uuː r iː $,default,nuuːriː
 Ikema-145_todrink-1,,Ikema,145_todrink,num,num,n u m,,476171,,,^ n u m $,default,num
 Ikema-146_leaf-1,,Ikema,146_leaf,haː,haː,h aː,,476171,,,^ h aː $,default,haː
 Ikema-147_tooth-1,,Ikema,147_tooth,haː,haː,h aː,,476171,,,^ h aː $,default,haː
@@ -7030,7 +7030,7 @@ Ishigaki-92_tosuck-1,,Ishigaki,92_tosuck,suːɴ,suːɴ,s uː ɴ,,122469,,,^ s u�
 Ishigaki-93_sand-1,,Ishigaki,93_sand,inoː,inoː,i n oː,,122469,,,^ i n oː $,default,inoː
 Ishigaki-94_tosit-1,,Ishigaki,94_tosit,biruɴ,biruɴ,b i r u ɴ,,122469,,,^ b i r u ɴ $,default,biruɴ
 Ishigaki-95_back-1,,Ishigaki,95_back,kusu,kusu,k u s u,,122469,,,^ k u s u $,default,kusu
-Ishigaki-96_narrow-1,,Ishigaki,96_narrow,?ibasaːɴ,?ibasaːɴ,<?> i b a s aː ɴ,,122469,,,^ ? i b a s aː ɴ $,default,?ibasaːɴ
+Ishigaki-96_narrow-1,,Ishigaki,96_narrow,?ibasaːɴ,?ibasaːɴ,ʔ i b a s aː ɴ,,122469,,,^ ? i b a s aː ɴ $,default,?ibasaːɴ
 Ishigaki-98_togrow-1,,Ishigaki,98_togrow,Fudubasuɴ,Fudubasuɴ,β u d u b a s u ɴ,,122469,,,^ F u d u b a s u ɴ $,default,Fudubasuɴ
 Ishigaki-99_sky-1,,Ishigaki,99_sky,tiɴ,tiɴ,t i ɴ,,122469,,,^ t i ɴ $,default,tiɴ
 Ishigaki-100_topoundbeat-1,,Ishigaki,100_topoundbeat,tataguɴ,tataguɴ,t a t a g u ɴ,,122469,,,^ t a t a g u ɴ $,default,tataguɴ
@@ -7068,7 +7068,7 @@ Ishigaki-137_tosew-1,,Ishigaki,137_tosew,noːɴ,noːɴ,n oː ɴ,,122469,,,^ n o�
 Ishigaki-138_tosteal-1,,Ishigaki,138_tosteal,nusumuɴ,nusumuɴ,n u s u m u ɴ,,122469,,,^ n u s u m u ɴ $,default,nusumuɴ
 Ishigaki-139_wet-1,,Ishigaki,139_wet,dzoQFiɴ,dzoQFiɴ,d z o ʔ β i ɴ,,122469,,,^ d z o Q F i ɴ $,default,dzoQFiɴ
 Ishigaki-140_root-1,,Ishigaki,140_root,niː,niː,n iː,,122469,,,^ n iː $,default,niː
-Ishigaki-141_rat-1,,Ishigaki,141_rat,?ujaɴtʃu,?ujaɴtʃu,<?> u j a ɴ tʃ u,,122469,,,^ ? u j a ɴ tʃ u $,default,?ujaɴtʃu
+Ishigaki-141_rat-1,,Ishigaki,141_rat,?ujaɴtʃu,?ujaɴtʃu,ʔ u j a ɴ tʃ u,,122469,,,^ ? u j a ɴ tʃ u $,default,?ujaɴtʃu
 Ishigaki-142_tosleep-1,,Ishigaki,142_tosleep,nibuɴ,nibuɴ,n i b u ɴ,,122469,,,^ n i b u ɴ $,default,nibuɴ
 Ishigaki-143_toliedown-1,,Ishigaki,143_toliedown,nibuɴ,nibuɴ,n i b u ɴ,,122469,,,^ n i b u ɴ $,default,nibuɴ
 Ishigaki-144_toclimb-1,,Ishigaki,144_toclimb,nuburuɴ,nuburuɴ,n u b u r u ɴ,,122469,,,^ n u b u r u ɴ $,default,nuburuɴ
@@ -7315,7 +7315,7 @@ Taketomi-198_eye-1,,Taketomi,198_eye,miː,miː,m iː,,476171,,,^ m iː $,default
 Taketomi-200_tohold-1,,Taketomi,200_tohold,mutuɴ,mutuɴ,m u t u ɴ,,476171,,,^ m u t u ɴ $,default,mutuɴ
 Taketomi-201_toburn-1,,Taketomi,201_toburn,jakuɴ,jakuɴ,j a k u ɴ,,476171,,,^ j a k u ɴ $,default,jakuɴ
 Taketomi-202_eight-1,,Taketomi,202_eight,jaːtʃi,jaːtʃi,j aː tʃ i,,476171,,,^ j aː tʃ i $,default,jaːtsi
-Taketomi-203_todream-1,,Taketomi,203_todream,?imimiruɴ,?imimiruɴ,<?> i m i m i r u ɴ,,476171,,,^ ? i m i m i r u ɴ $,default,?imimiruɴ
+Taketomi-203_todream-1,,Taketomi,203_todream,?imimiruɴ,?imimiruɴ,ʔ i m i m i r u ɴ,,476171,,,^ ? i m i m i r u ɴ $,default,?imimiruɴ
 Taketomi-204_good-1,,Taketomi,204_good,misaɴ,misaɴ,m i s a ɴ,,476171,,,^ m i s a ɴ $,default,misaɴ
 Taketomi-205_four-1,,Taketomi,205_four,juːtʃi,juːtʃi,j uː tʃ i,,476171,,,^ j uː tʃ i $,default,juːtʃi
 Taketomi-206_night-1,,Taketomi,206_night,juːru,juːru,j uː r u,,476171,,,^ j uː r u $,default,juːru
@@ -7521,7 +7521,7 @@ Yonaguni-1_green-1,,Yonaguni,1_green,dirumidiru,dirumidiru,d i r u m i d i r u,,
 Yonaguni-2_red-1,,Yonaguni,2_red,agaɴtai,agaɴtai,a g a ɴ t a i,,122469,,,^ a g a ɴ t a i $,default,agaɴtai
 Yonaguni-3_toyawn-1,,Yonaguni,3_toyawn,agu,agu,a g u,,122469,,,^ a g u $,default,agu
 Yonaguni-4_legfoot-1,,Yonaguni,4_legfoot,sanda,sanda,s a n d a,,122469,,,^ s a n d a $,default,sanda
-Yonaguni-5_head-1,,Yonaguni,5_head,ɴg?usa,ɴg?usa,ɴ g <?> u s a,,122469,,,^ ɴ g ? u s a $,default,ʔɴgusa
+Yonaguni-5_head-1,,Yonaguni,5_head,ɴg?usa,ɴg?usa,ɴ g ʔ u s a,,122469,,,^ ɴ g ? u s a $,default,ʔɴgusa
 Yonaguni-6_new-1,,Yonaguni,6_new,atarasaɴ,atarasaɴ,a t a r a s a ɴ,,122469,,,^ a t a r a s a ɴ $,default,atarasaɴ
 Yonaguni-7_thick-1,,Yonaguni,7_thick,atsaɴ,atsaɴ,a ts a ɴ,,122469,,,^ a ts a ɴ $,default,atsaɴ
 Yonaguni-8_warm-1,,Yonaguni,8_warm,nukusaɴ,nukusaɴ,n u k u s a ɴ,,122469,,,^ n u k u s a ɴ $,default,nukusaɴ
@@ -7568,14 +7568,14 @@ Yonaguni-53_tochew-1,,Yonaguni,53_tochew,kamuɴ,kamuɴ,k a m u ɴ,,122469,,,^ k 
 Yonaguni-55_skin-1,,Yonaguni,55_skin,ka,ka,k a,,122469,,,^ k a $,default,ka
 Yonaguni-56_dry-1,,Yonaguni,56_dry,karaguɴ,karaguɴ,k a r a g u ɴ,,122469,,,^ k a r a g u ɴ $,default,karaguɴ
 Yonaguni-57_yellow-1,,Yonaguni,57_yellow,kirui,kirui,k i r u i,,122469,,,^ k i r u i $,default,kirui
-Yonaguni-58_tohear-1,,Yonaguni,58_tohear,k?uɴ,k?uɴ,k <?> u ɴ,,122469,,,^ k ? u ɴ $,default,k?uɴ
+Yonaguni-58_tohear-1,,Yonaguni,58_tohear,k?uɴ,k?uɴ,k ʔ u ɴ,,122469,,,^ k ? u ɴ $,default,k?uɴ
 Yonaguni-59_dirty-1,,Yonaguni,59_dirty,dinaɴ,dinaɴ,d i n a ɴ,,122469,,,^ d i n a ɴ $,default,dinaɴ
 Yonaguni-61_fog-1,,Yonaguni,61_fog,tʃiri,tʃiri,tʃ i r i,,122469,,,^ tʃ i r i $,default,tʃiri
 Yonaguni-62_tocuthack-1,,Yonaguni,62_tocuthack,tsuɴ,tsuɴ,ts u ɴ,,122469,,,^ ts u ɴ $,default,tsuɴ
 Yonaguni-64_toeat-1,,Yonaguni,64_toeat,Fuɴ,Fuɴ,β u ɴ,,122469,,,^ F u ɴ $,default,Fuɴ
 Yonaguni-65_grass-1,,Yonaguni,65_grass,tsa,tsa,ts a,,122469,,,^ ts a $,default,tsa
 Yonaguni-66_rotten-1,,Yonaguni,66_rotten,tsariruɴ,tsariruɴ,ts a r i r u ɴ,,122469,,,^ ts a r i r u ɴ $,default,tsariruɴ
-Yonaguni-67_mouth-1,,Yonaguni,67_mouth,t?i,t?i,t <?> i,,122469,,,^ t ? i $,default,t?i
+Yonaguni-67_mouth-1,,Yonaguni,67_mouth,t?i,t?i,t ʔ i,,122469,,,^ t ? i $,default,t?i
 Yonaguni-68_neck-1,,Yonaguni,68_neck,nubi,nubi,n u b i,,122469,,,^ n u b i $,default,nubi
 Yonaguni-69_cloud-1,,Yonaguni,69_cloud,ɴmu,ɴmu,ɴ m u,,122469,,,^ ɴ m u $,default,ɴmu
 Yonaguni-70_spider-1,,Yonaguni,70_spider,kubu,kubu,k u b u,,122469,,,^ k u b u $,default,kubu
@@ -7590,30 +7590,30 @@ Yonaguni-80_fish-1,,Yonaguni,80_fish,iu,iu,i u,,122469,,,^ i u $,default,iu
 Yonaguni-82_tostabpierce-1,,Yonaguni,82_tostabpierce,tsami,tsami,ts a m i,,122469,,,^ ts a m i $,default,tsami
 Yonaguni-83_cold-1,,Yonaguni,83_cold,çisaɴ,çisaɴ,ç i s a ɴ,,122469,,,^ ç i s a ɴ $,default,hisaɴ
 Yonaguni-84_salt-1,,Yonaguni,84_salt,maʃi,maʃi,m a ʃ i,,122469,,,^ m a ʃ i $,default,masi
-Yonaguni-85_below-1,,Yonaguni,85_below,t?ara,t?ara,t <?> a r a,,122469,,,^ t ? a r a $,default,t?ara
-Yonaguni-86_tongue-1,,Yonaguni,86_tongue,t?a,t?a,t <?> a,,122469,,,^ t ? a $,default,t?a
+Yonaguni-85_below-1,,Yonaguni,85_below,t?ara,t?ara,t ʔ a r a,,122469,,,^ t ? a r a $,default,t?ara
+Yonaguni-86_tongue-1,,Yonaguni,86_tongue,t?a,t?a,t ʔ a,,122469,,,^ t ? a $,default,t?a
 Yonaguni-87_todiebedead-1,,Yonaguni,87_todiebedead,maisuɴ,maisuɴ,m a i s u ɴ,,122469,,,^ m a i s u ɴ $,default,maisuɴ
 Yonaguni-89_louse-1,,Yonaguni,89_louse,tsaɴ,tsaɴ,ts a ɴ,,122469,,,^ ts a ɴ $,default,tsaɴ
 Yonaguni-90_toknowbeknowledgeable-1,,Yonaguni,90_toknowbeknowledgeable,ʔatiʔaɴ,ʔatiʔaɴ,ʔ a t i ʔ a ɴ,,122469,,,^ ʔ a t i ʔ a ɴ $,default,ʔatiʔaɴ
 Yonaguni-91_white-1,,Yonaguni,91_white,tsudari,tsudari,ts u d a r i,,122469,,,^ ts u d a r i $,default,tsudari
 Yonaguni-93_sand-1,,Yonaguni,93_sand,tʃinaɴ,tʃinaɴ,tʃ i n a ɴ,,122469,,,^ tʃ i n a ɴ $,default,tʃinaɴ
 Yonaguni-94_tosit-1,,Yonaguni,94_tosit,ɴturuɴ,ɴturuɴ,ɴ t u r u ɴ,,122469,,,^ ɴ t u r u ɴ $,default,ɴturuɴ
-Yonaguni-95_back-1,,Yonaguni,95_back,kutʃ?ibuni,kutʃ?ibuni,k u tʃ <?> i b u n i,,122469,,,^ k u tʃ ? i b u n i $,default,kutʃ?ibuni
+Yonaguni-95_back-1,,Yonaguni,95_back,kutʃ?ibuni,kutʃ?ibuni,k u tʃ ʔ i b u n i,,122469,,,^ k u tʃ ? i b u n i $,default,kutʃ?ibuni
 Yonaguni-96_narrow-1,,Yonaguni,96_narrow,ʃibaɴ,ʃibaɴ,ʃ i b a ɴ,,122469,,,^ ʃ i b a ɴ $,default,ʃibaɴ
 Yonaguni-98_togrow-1,,Yonaguni,98_togrow,kanuɴ,kanuɴ,k a n u ɴ,,122469,,,^ k a n u ɴ $,default,kanuɴ
 Yonaguni-99_sky-1,,Yonaguni,99_sky,tiɴ,tiɴ,t i ɴ,,122469,,,^ t i ɴ $,default,tiɴ
-Yonaguni-100_topoundbeat-1,,Yonaguni,100_topoundbeat,?ut?uɴ,?ut?uɴ,<?> u t <?> u ɴ,,122469,,,^ ? u t ? u ɴ $,default,?ut?uɴ
-Yonaguni-101_tostand-1,,Yonaguni,101_tostand,tat?uɴ,tat?uɴ,t a t <?> u ɴ,,122469,,,^ t a t ? u ɴ $,default,tat?uɴ
+Yonaguni-100_topoundbeat-1,,Yonaguni,100_topoundbeat,?ut?uɴ,?ut?uɴ,ʔ u t ʔ u ɴ,,122469,,,^ ? u t ? u ɴ $,default,?ut?uɴ
+Yonaguni-101_tostand-1,,Yonaguni,101_tostand,tat?uɴ,tat?uɴ,t a t ʔ u ɴ,,122469,,,^ t a t ? u ɴ $,default,tat?uɴ
 Yonaguni-102_egg-1,,Yonaguni,102_egg,kaiŋu,kaiŋu,k a i ŋ u,,122469,,,^ k a i ŋ u $,default,kaiŋu
 Yonaguni-103_blood-1,,Yonaguni,103_blood,tʃi,tʃi,tʃ i,,122469,,,^ tʃ i $,default,tʃi
 Yonaguni-104_small-1,,Yonaguni,104_small,gumatati,gumatati,g u m a t a t i,,122469,,,^ g u m a t a t i $,default,gumatati
-Yonaguni-105_near-1,,Yonaguni,105_near,t?aɴ,t?aɴ,t <?> a ɴ,,122469,,,^ t ? a ɴ $,default,t?aɴ
-Yonaguni-106_father-1,,Yonaguni,106_father,?ija,?ija,<?> i j a,,122469,,,^ ? i j a $,default,?ija
+Yonaguni-105_near-1,,Yonaguni,105_near,t?aɴ,t?aɴ,t ʔ a ɴ,,122469,,,^ t ? a ɴ $,default,t?aɴ
+Yonaguni-106_father-1,,Yonaguni,106_father,?ija,?ija,ʔ i j a,,122469,,,^ ? i j a $,default,?ija
 Yonaguni-107_moon-1,,Yonaguni,107_moon,ubuta,ubuta,u b u t a,,122469,,,^ u b u t a $,default,ubuta
 Yonaguni-108_earthsoil-1,,Yonaguni,108_earthsoil,dinaga,dinaga,d i n a g a,,122469,,,^ d i n a g a $,default,dinaga
 Yonaguni-109_wife-1,,Yonaguni,109_wife,tuɴ,tuɴ,t u ɴ,,122469,,,^ t u ɴ $,default,tuɴ
 Yonaguni-110_hand-1,,Yonaguni,110_hand,ti,ti,t i,,122469,,,^ t i $,default,ti
-Yonaguni-112_and-1,,Yonaguni,112_and,t?u,t?u,t <?> u,,122469,,,^ t ? u $,default,t?u
+Yonaguni-112_and-1,,Yonaguni,112_and,t?u,t?u,t ʔ u,,122469,,,^ t ? u $,default,t?u
 Yonaguni-114_ten-1,,Yonaguni,114_ten,tu,tu,t u,,122469,,,^ t u $,default,tu
 Yonaguni-115_far-1,,Yonaguni,115_far,tuɴ,tuɴ,t u ɴ,,122469,,,^ t u ɴ $,default,tuɴ
 Yonaguni-117_year-1,,Yonaguni,117_year,tutʃi,tutʃi,t u tʃ i,,122469,,,^ t u tʃ i $,default,tutʃi
@@ -7624,7 +7624,7 @@ Yonaguni-122_nonot-1,,Yonaguni,122_nonot,nuɴ,nuɴ,n u ɴ,,122469,,,^ n u ɴ $,d
 Yonaguni-123_ininside-1,,Yonaguni,123_ininside,naga,naga,n a g a,,122469,,,^ n a g a $,default,naga
 Yonaguni-124_long-1,,Yonaguni,124_long,nasaɴ,nasaɴ,n a s a ɴ,,122469,,,^ n a s a ɴ $,default,nasaɴ
 Yonaguni-126_tocry-1,,Yonaguni,126_tocry,naguɴ,naguɴ,n a g u ɴ,,122469,,,^ n a g u ɴ $,default,naguɴ
-Yonaguni-127_tohit-1,,Yonaguni,127_tohit,?ut?uɴ,?ut?uɴ,<?> u t <?> u ɴ,,122469,,,^ ? u t ? u ɴ $,default,?ut?uɴ
+Yonaguni-127_tohit-1,,Yonaguni,127_tohit,?ut?uɴ,?ut?uɴ,ʔ u t ʔ u ɴ,,122469,,,^ ? u t ? u ɴ $,default,?ut?uɴ
 Yonaguni-128_tothrow-1,,Yonaguni,128_tothrow,naŋi,naŋi,n a ŋ i,,122469,,,^ n a ŋ i $,default,naŋi
 Yonaguni-129_seven-1,,Yonaguni,129_seven,nanatʃi,nanatʃi,n a n a tʃ i,,122469,,,^ n a n a tʃ i $,default,nanatʃi
 Yonaguni-130_name-1,,Yonaguni,130_name,na,na,n a,,122469,,,^ n a $,default,na
@@ -7644,7 +7644,7 @@ Yonaguni-147_tooth-1,,Yonaguni,147_tooth,ha,ha,h a,,122469,,,^ h a $,default,ha
 Yonaguni-148_ash-1,,Yonaguni,148_ash,çiguɴ,çiguɴ,ç i g u ɴ,,122469,,,^ ç i g u ɴ $,default,çiguɴ
 Yonaguni-149_tospit-1,,Yonaguni,149_tospit,haguɴ,haguɴ,h a g u ɴ,,122469,,,^ h a g u ɴ $,default,haguɴ
 Yonaguni-150_tovomit-1,,Yonaguni,150_tovomit,haguɴ,haguɴ,h a g u ɴ,,122469,,,^ h a g u ɴ $,default,haguɴ
-Yonaguni-151_shyashamed-1,,Yonaguni,151_shyashamed,d?uhaɴkanu,d?uhaɴkanu,d <?> u h a ɴ k a n u,,122469,,,^ d ? u h a ɴ k a n u $,default,d?uhaɴkanu
+Yonaguni-151_shyashamed-1,,Yonaguni,151_shyashamed,d?uhaɴkanu,d?uhaɴkanu,d ʔ u h a ɴ k a n u,,122469,,,^ d ? u h a ɴ k a n u $,default,d?uhaɴkanu
 Yonaguni-152_towork-1,,Yonaguni,152_towork,hatarati,hatarati,h a t a r a t i,,122469,,,^ h a t a r a t i $,default,hatarati
 Yonaguni-153_flower-1,,Yonaguni,153_flower,hana,hana,h a n a,,122469,,,^ h a n a $,default,hana
 Yonaguni-154_nose-1,,Yonaguni,154_nose,hanaburu,hanaburu,h a n a b u r u,,122469,,,^ h a n a b u r u $,default,hanaburu
@@ -7655,20 +7655,20 @@ Yonaguni-158_woodsforest-1,,Yonaguni,158_woodsforest,jama,jama,j a m a,,122469,,
 Yonaguni-159_belly-1,,Yonaguni,159_belly,bata,bata,b a t a,,122469,,,^ b a t a $,default,bata
 Yonaguni-160_intestines-1,,Yonaguni,160_intestines,bata,bata,b a t a,,122469,,,^ b a t a $,default,bata
 Yonaguni-161_needle-1,,Yonaguni,161_needle,hai,hai,h a i,,122469,,,^ h a i $,default,hai
-Yonaguni-162_fire-1,,Yonaguni,162_fire,tʃ?i,tʃ?i,tʃ <?> i,,122469,,,^ tʃ ? i $,default,tʃ?i
+Yonaguni-162_fire-1,,Yonaguni,162_fire,tʃ?i,tʃ?i,tʃ ʔ i,,122469,,,^ tʃ ? i $,default,tʃ?i
 Yonaguni-163_left-1,,Yonaguni,163_left,ɴdai,ɴdai,ɴ d a i,,122469,,,^ ɴ d a i $,default,ɴdai
-Yonaguni-164_personhumanbeing-1,,Yonaguni,164_personhumanbeing,t?u,t?u,t <?> u,,122469,,,^ t ? u $,default,t?u
+Yonaguni-164_personhumanbeing-1,,Yonaguni,164_personhumanbeing,t?u,t?u,t ʔ u,,122469,,,^ t ? u $,default,t?u
 Yonaguni-165_one-1,,Yonaguni,165_one,tutʃi,tutʃi,t u tʃ i,,122469,,,^ t u tʃ i $,default,tutʃi
 Yonaguni-167_toopenuncover-1,,Yonaguni,167_toopenuncover,agiruɴ,agiruɴ,a g i r u ɴ,,122469,,,^ a g i r u ɴ $,default,agiruɴ
 Yonaguni-169_wide-1,,Yonaguni,169_wide,maisaɴ,maisaɴ,m a i s a ɴ,,122469,,,^ m a i s a ɴ $,default,maisaɴ
-Yonaguni-171_thatchroof-1,,Yonaguni,171_thatchroof,danutʃ?iɴ,danutʃ?iɴ,d a n u tʃ <?> i ɴ,,122469,,,^ d a n u tʃ ? i ɴ $,default,danutʃ?iɴ
+Yonaguni-171_thatchroof-1,,Yonaguni,171_thatchroof,danutʃ?iɴ,danutʃ?iɴ,d a n u tʃ ʔ i ɴ,,122469,,,^ d a n u tʃ ? i ɴ $,default,danutʃ?iɴ
 Yonaguni-172_toswell-1,,Yonaguni,172_toswell,kuriruɴ,kuriruɴ,k u r i r u ɴ,,122469,,,^ k u r i r u ɴ $,default,kuriruɴ
 Yonaguni-173_two-1,,Yonaguni,173_two,tatʃi,tatʃi,t a tʃ i,,122469,,,^ t a tʃ i $,default,tatʃi
 Yonaguni-174_old-1,,Yonaguni,174_old,Furumunu,Furumunu,β u r u m u n u,,122469,,,^ F u r u m u n u $,default,Furumunu
 Yonaguni-175_snake-1,,Yonaguni,175_snake,tugara,tugara,t u g a r a,,122469,,,^ t u g a r a $,default,tugara
 Yonaguni-176_stickwood-1,,Yonaguni,176_stickwood,su,su,s u,,122469,,,^ s u $,default,su
 Yonaguni-177_other-1,,Yonaguni,177_other,Fuga,Fuga,β u g a,,122469,,,^ F u g a $,default,Fuga
-Yonaguni-178_dust-1,,Yonaguni,178_dust,k?uɴ,k?uɴ,k <?> u ɴ,,122469,,,^ k ? u ɴ $,default,k?uɴ
+Yonaguni-178_dust-1,,Yonaguni,178_dust,k?uɴ,k?uɴ,k ʔ u ɴ,,122469,,,^ k ? u ɴ $,default,k?uɴ
 Yonaguni-179_star-1,,Yonaguni,179_star,Futʃi,Futʃi,β u tʃ i,,122469,,,^ F u tʃ i $,default,Futʃi
 Yonaguni-180_bone-1,,Yonaguni,180_bone,Funi,Funi,β u n i,,122469,,,^ F u n i $,default,Funi
 Yonaguni-181_todig-1,,Yonaguni,181_todig,Fui,Fui,β u i,,122469,,,^ F u i $,default,Fui
@@ -9276,8 +9276,6 @@ Mie-28_thin-1,,Mie,28_thin,usui,usui,u s u i,,476171,,,^ u s u i $,default,usui
 Mie-29_toshoot-1,,Mie,29_toshoot,utsu,utsu,u ts u,,476171,,,^ u ts u $,default,utsu
 Mie-30_sea-1,,Mie,30_sea,umi,umi,u m i,,476171,,,^ u m i $,default,umi
 Mie-31_branch-1,,Mie,31_branch,eda,eda,e d a,,476171,,,^ e d a $,default,eda
-Mie-33_tail-1,,Mie,33_tail,オンボ/シッポ,オンボ,,,476171,,,^ オ ン ボ $,default,oQpo/ʃiQpo
-Mie-33_tail-2,,Mie,33_tail,オンボ/シッポ,シッポ,,,476171,,,^ シ ッ ポ $,default,oQpo/ʃiQpo
 Mie-34_big-1,,Mie,34_big,oQkiː,oQkiː,o ʔ k iː,,476171,,,^ o Q k iː $,default,oQkiː
 Mie-36_tofall-1,,Mie,36_tofall,otʃiru,otʃiru,o tʃ i r u,,476171,,,^ o tʃ i r u $,default,otʃiru
 Mie-37_husband-1,,Mie,37_husband,otoːsaɴ,otoːsaɴ,o t oː s a ɴ,,476171,,,^ o t oː s a ɴ $,default,otoːsaɴ

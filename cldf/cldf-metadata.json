@@ -17,13 +17,13 @@
         {
             "rdf:about": "https://github.com/lexibank/leejaponic",
             "rdf:type": "prov:Entity",
-            "dc:created": "ea4baf6",
+            "dc:created": "65f7b8a",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.3",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         },
         {
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 11365,
+            "dc:extent": 11363,
             "tableSchema": {
                 "columns": [
                     {
@@ -262,7 +262,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 11368,
+            "dc:extent": 11366,
             "tableSchema": {
                 "columns": [
                     {

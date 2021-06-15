@@ -4,6 +4,7 @@ import itertools
 import attr
 from clldutils.misc import nfilter, slug
 from pylexibank import Lexeme, Dataset as BaseDataset
+from pylexibank import FormSpec
 
 
 @attr.s
@@ -16,6 +17,10 @@ class Dataset(BaseDataset):
     id = "leejaponic"
 
     lexeme_class = LeeJaponicLexeme
+    form_spec = FormSpec(
+            replacements=[("オンボ", ""), ("シッポ", "")]
+            )
+
 
     def cmd_download(self, args):
         self.raw_dir.xls2csv("supplementary.xlsx")
