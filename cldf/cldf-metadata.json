@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/leejaponic",
             "rdf:type": "prov:Entity",
-            "dc:created": "65f7b8a",
+            "dc:created": "fd7f761",
             "dc:title": "Repository"
         },
         {
@@ -33,16 +33,20 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0.0",
+            "dc:created": "v2.1.0",
             "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
             "dc:title": "python",
-            "dc:description": "3.9.5"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",

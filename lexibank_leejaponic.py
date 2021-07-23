@@ -3,24 +3,20 @@ import itertools
 
 import attr
 from clldutils.misc import nfilter, slug
-from pylexibank import Lexeme, Dataset as BaseDataset
-from pylexibank import FormSpec
+import pylexibank
 
 
 @attr.s
-class LeeJaponicLexeme(Lexeme):
+class LeeJaponicLexeme(pylexibank.Lexeme):
     AlternativeTranscription = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = pathlib.Path(__file__).parent
     id = "leejaponic"
 
     lexeme_class = LeeJaponicLexeme
-    form_spec = FormSpec(
-            replacements=[("オンボ", ""), ("シッポ", "")]
-            )
-
+    form_spec = pylexibank.FormSpec(replacements=[("オンボ", ""), ("シッポ", "")])
 
     def cmd_download(self, args):
         self.raw_dir.xls2csv("supplementary.xlsx")

@@ -1,5 +1,7 @@
 # CLDF dataset derived from Lee and Hasegawa's "Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages" from 2011
 
+[![CLDF validation](https://github.com/lexibank/leejaponic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/leejaponic/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -20,7 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/leejaponic.svg?branch=master)](https://travis-ci.org/lexibank/leejaponic)
+[![CLDF validation](https://github.com/lexibank/leejaponic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/leejaponic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
