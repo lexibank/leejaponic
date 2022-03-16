@@ -60,7 +60,8 @@ class Dataset(BaseDataset):
         word_index_to_concept = concepts(wordsh, 1)
 
         args.writer.add_sources()
-
+        
+        new_idx = 1000
         for i, (word, cognate) in enumerate(zip(sorted_(words), sorted_(cognates))):
             if not word[1]:
                 continue
@@ -74,12 +75,18 @@ class Dataset(BaseDataset):
                 cindex = (index - 1) * 2
                 assert cognatesh[cindex] == concept
 
+                cs = cognate[cindex + 1]
+                cogid = cs.split("&")[0].strip()
+                if cogid == "?":
+                    cogid = new_idx
+                    new_idx += 1
                 for row in args.writer.add_lexemes(
                     Language_ID=language_map[lname],
                     Parameter_ID=concept_map[concept],
                     Value=word[index],
                     AlternativeTranscription=cognate[cindex],
                     Source=sourcemap[lname],
+                    Cognacy="{0}-{1}".format(index -1, cogid)
                 ):
                     cs = cognate[cindex + 1]
                     for css in cs.split("&"):

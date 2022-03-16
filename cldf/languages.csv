@@ -1,6 +1,6 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
 MiddleJapanese,Middle Japanese,,,,,,,
-OldJapanese,Old Japanese,oldj1239,Old Japanese,ojp,Eurasia,34.683333,135.8,Japonic
+OldJapanese,Old Japanese,oldj1239,Old Japanese,ojp,Eurasia,34.68333,135.8,Japonic
 Aichi,Aichi,gifu1238,Gifu-Aichi,,Eurasia,,,Japonic
 Akita,Akita,akit1240,Akita,,Eurasia,,,Japonic
 Aomori,Aomori,tsug1237,Tsugaru,,Eurasia,,,Japonic
@@ -23,7 +23,7 @@ Yamagata,Yamagata,yama1262,Yamagata,,Eurasia,,,Japonic
 Yamanashi,Yamanashi,yama1263,Yamanashi,,Eurasia,,,Japonic
 Hachijyo,Hachijyo,hach1239,Hachijo,,Eurasia,33.109444,139.791389,Japonic
 Fukuoka,Fukuoka,chik1251,Chikuho-ben,,Eurasia,,,Japonic
-Kagoshima,Kagoshima,nort2935,Northern Amami-Oshima,ryn,Eurasia,28.2099,129.453,Japonic
+Kagoshima,Kagoshima,nort2935,Northern Amami-Oshima,ryn,Eurasia,28.20991,129.45346,Japonic
 Kumamoto,Kumamoto,kuma1281,Kumamoto-ben,,Eurasia,,,Japonic
 Miyazaki,Miyazaki,miya1258,Miyazaki-ben,,Eurasia,,,Japonic
 Nagasaki,Nagasaki,naga1405,Nagasaki-ben,,Eurasia,,,Japonic
@@ -31,14 +31,14 @@ Oita,Oita,oita1237,Ōita-ben,,Eurasia,,,Japonic
 Saga,Saga,saga1265,Saga-ben,,Eurasia,,,Japonic
 Naze,Naze,naze1238,Naze,,Eurasia,,,Japonic
 Okinawa,Okinawa,okin1244,Okinawa,,,,,Japonic
-Hateruma,Hateruma,hate1238,Hateruma,,Eurasia,,,Japonic
+Hateruma,Hateruma,hate1238,Hateruma,,Eurasia,24.059,123.78,Japonic
 Hirara,Hirara,miya1260,Miyako-Jima,,Eurasia,,,Japonic
-Ikema,Ikema,ikem1235,Ikema-Jima,,Eurasia,,,Japonic
+Ikema,Ikema,ikem1235,Ikema-Jima,,Eurasia,24.93149,125.245,Japonic
 Irafu,Irafu,irab1238,Irabu-Jima,,Eurasia,24.831088,125.18956,Japonic
 Ishigaki,Ishigaki,ishi1240,Ishigaki,,Eurasia,,,Japonic
 Taketomi,Taketomi,take1256,Taketomi,,Eurasia,,,Japonic
-Tarama,Tarama,tara1319,Tarama-Minna,,Eurasia,,,Japonic
-Yonaguni,Yonaguni,yona1241,Yonaguni,yoi,Eurasia,24.45,122.991,Japonic
+Tarama,Tarama,tara1319,Tarama-Minna,,Eurasia,24.6584,124.6998,Japonic
+Yonaguni,Yonaguni,yona1241,Yonaguni,yoi,Eurasia,24.44997,122.99075,Japonic
 Ehime,Ehime,iyob1237,Iyo-ben,,Eurasia,,,Japonic
 Fukui,Fukui,fuku1241,Fukui,,Eurasia,,,Japonic
 Hiroshima,Hiroshima,hiro1237,Hiroshima,,Eurasia,,,Japonic
