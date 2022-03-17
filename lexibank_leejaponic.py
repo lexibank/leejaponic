@@ -66,16 +66,24 @@ class Dataset(pylexibank.Dataset):
             assert word[:2] == cognate[:2]
 
             lname = word[1]
-
+            
+            cogs = {}
+            cogidx = 1
             for index, concept in word_index_to_concept.items():
                 cindex = (index - 1) * 2
                 assert cognatesh[cindex] == concept
 
                 cs = cognate[cindex + 1]
-                cogid = cs.split("&")[0].strip()
-                if cogid == "?":
-                    cogid = new_idx
-                    new_idx += 1
+                cogn = cs.split("&")[0].strip()
+                if cogn == "?":
+                    cogid = cogidx 
+                    cogidx += 1
+                elif cogn in cogs:
+                    cogid = cogs[cogn]
+                else:
+                    cogs[cogn] = cogidx
+                    cogidx += 1
+                    cogid = cogs[cogn]
                 for row in args.writer.add_lexemes(
                     Language_ID=language_map[lname],
                     Parameter_ID=concept_map[concept],
