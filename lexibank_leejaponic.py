@@ -90,7 +90,7 @@ class Dataset(pylexibank.Dataset):
                     Value=word[index],
                     AlternativeTranscription=cognate[cindex],
                     Source=sourcemap[lname],
-                    Cognacy="{0}-{1}".format(index -1, cogid)
+                    Cognacy=cogid)
                 ):
                     cs = cognate[cindex + 1]
                     for css in cs.split("&"):
