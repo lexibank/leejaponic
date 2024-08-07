@@ -2,6 +2,6 @@
 
 Name | GitHub user | Description | Role
  --- | --- | --- | ---
-Christoph Rzymski | @chrzyki | patron | Other
-Lee, Sean | | data collection | Author
-Hasegawa, Toshikazu | | data collection | Author
+Christoph Rzymski | @chrzyki | patron | Editor
+Sean Lee | | data collection | Author
+Toshikazu Hasegawa | | data collection | Author

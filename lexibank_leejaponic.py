@@ -14,7 +14,7 @@ class LeeJaponicLexeme(pylexibank.Lexeme):
 class Dataset(pylexibank.Dataset):
     dir = pathlib.Path(__file__).parent
     id = "leejaponic"
-
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     lexeme_class = LeeJaponicLexeme
     form_spec = pylexibank.FormSpec(replacements=[("オンボ", ""), ("シッポ", "")])
 

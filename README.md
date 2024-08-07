@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Lee, Sean, Hasegawa, Toshikazu (2011). Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages. Proceedings of the Royal Society B: Biological Sciences, 278(1725), 3662–3669. doi:10.1098/rspb.2011.0518.
+  > Lee, Sean and Hasegawa, Toshikazu (2011). Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages. Proceedings of the Royal Society B: Biological Sciences, 278(1725), 3662–3669. doi:10.1098/rspb.2011.0518.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 59
-- **Concepts:** 210
+- **Varieties:** 59 (linked to 56 different Glottocodes)
+- **Concepts:** 210 (linked to 210 different Concepticon concept sets)
 - **Lexemes:** 11,363
 - **Sources:** 5
 - **Synonymy:** 1.00
@@ -38,16 +38,16 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.04
 - **Invalid lexemes:** 0
 - **Tokens:** 52,019
-- **Segments:** 59 (0 BIPA errors, 0 CTLS sound class errors, 59 CLTS modified)
+- **Segments:** 59 (0 BIPA errors, 0 CLTS sound class errors, 59 CLTS modified)
 - **Inventory size (avg):** 32.98
 
 # Contributors
 
 Name | GitHub user | Description | Role
  --- | --- | --- | ---
-Christoph Rzymski | @chrzyki | patron | Other
-Lee, Sean | | data collection | Author
-Hasegawa, Toshikazu | | data collection | Author
+Christoph Rzymski | @chrzyki | patron | Editor
+Sean Lee | | data collection | Author
+Toshikazu Hasegawa | | data collection | Author
 
 
 

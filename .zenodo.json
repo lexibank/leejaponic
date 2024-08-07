@@ -7,16 +7,16 @@
     ],
     "creators": [
         {
-            "name": "Lee, Sean"
+            "name": "Sean Lee"
         },
         {
-            "name": "Hasegawa, Toshikazu"
+            "name": "Toshikazu Hasegawa"
         }
     ],
     "contributors": [
         {
             "name": "Christoph Rzymski",
-            "type": "Other"
+            "type": "Editor"
         }
     ],
     "communities": [
@@ -25,7 +25,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Lee, Sean, Hasegawa, Toshikazu (2011). Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages. Proceedings of the Royal Society B: Biological Sciences, 278(1725), 3662\u20133669. doi:10.1098/rspb.2011.0518.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Lee, Sean and Hasegawa, Toshikazu (2011). Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages. Proceedings of the Royal Society B: Biological Sciences, 278(1725), 3662\u20133669. doi:10.1098/rspb.2011.0518.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
